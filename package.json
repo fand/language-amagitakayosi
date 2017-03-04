@@ -10,5 +10,6 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "repository": "https://github.com/fand/language-amagitakayosi"
 }
